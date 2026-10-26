@@ -41,6 +41,7 @@ The final Power BI report includes **four interactive pages**, each crafted to d
    - Tracks **price changes** and **sales trends** for strategic pricing
 
 4. **Customer Details**
+   
    <img width="1267" height="711" alt="image" src="https://github.com/user-attachments/assets/faa92150-332f-42e5-941a-bc5740b04ec1" />
 
    - Segments customers by **income**, **occupation**, and **region**  
