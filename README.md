@@ -1,4 +1,4 @@
-# Diving-into-Data-with-Adventure-Works
+<img width="1448" height="811" alt="image" src="https://github.com/user-attachments/assets/a916d8fb-0b9b-4088-a8a5-7ade81f0f2e7" /># Diving-into-Data-with-Adventure-Works
 As part of the Microsoft Power BI Desktop for Business Intelligence course by Maven Analytics, Chris Dutton, and Aaron Parry on Udemy, I worked on a scenario where I joined Adventure Works, a global cycling equipment and accessories manufacturer, as a Business Intelligence Analyst.
 
 # 🚴 Adventure Works Sales Analysis with Power BI
@@ -22,21 +22,32 @@ In this scenario-based project, I assumed the role of a **Business Intelligence 
 
 The final Power BI report includes **four interactive pages**, each crafted to deliver actionable insights:
 
-1. **Executive Dashboard**  
+1. **Executive Dashboard**
+
+   <img width="1448" height="811" alt="image" src="https://github.com/user-attachments/assets/9ad492b9-3941-4860-a4dc-2834f82cb077" />
+
    - Overview of **revenue**, **profit**, **order volume**, and **return rate**  
    - Helps leadership monitor business performance at a glance
+  
+2. **Global Map View**
 
-2. **Product Details**  
+   <img width="1423" height="791" alt="image" src="https://github.com/user-attachments/assets/d9194df1-4cce-4673-8a29-be63a01f84c6" />
+
+   - Visualises **order volume by region**  
+   - Uncovers **geographic hotspots** and international reach
+
+3. **Product Details**
+
+   <img width="1446" height="813" alt="image" src="https://github.com/user-attachments/assets/bfad6a71-c3a4-4f10-89ef-26af57e0410d" />
+
    - Highlights **top-selling products**  
    - Tracks **price changes** and **sales trends** for strategic pricing
 
-3. **Customer Details**  
+4. **Customer Details**
+   <img width="1267" height="711" alt="image" src="https://github.com/user-attachments/assets/faa92150-332f-42e5-941a-bc5740b04ec1" />
+
    - Segments customers by **income**, **occupation**, and **region**  
    - Identifies and profiles **high-value customers**
-
-4. **Global Map View**  
-   - Visualises **order volume by region**  
-   - Uncovers **geographic hotspots** and international reach
 
 ---
 
@@ -53,12 +64,6 @@ Power BI transforms raw data into interactive visuals with **real-time filtering
 
 ---
 
-## 💬 Feedback
-
-I’d love to hear your thoughts, suggestions, or questions! Feel free to open an issue or reach out via LinkedIn.
-
----
-
 ## 🛠 Tools Used
 
 - Power BI Desktop  
@@ -66,3 +71,16 @@ I’d love to hear your thoughts, suggestions, or questions! Feel free to open a
 - Data Modelling & Relationships  
 - Custom Visuals  
 - Interactive Slicers & Drill-through
+
+---
+
+## 💬 Feedback
+
+I’d love to hear your thoughts, suggestions, or questions! Feel free to open an issue or reach out via LinkedIn.
+
+---
+
+## 👤 Author
+
+Akanksha Kumari
+Aspiring Data Analyst | Power BI | SQL | Excel | Python | Tableau | Generative AI
