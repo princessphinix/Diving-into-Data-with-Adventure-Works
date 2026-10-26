@@ -1,5 +1,3 @@
-As part of the Microsoft Power BI Desktop for Business Intelligence course by Maven Analytics, Chris Dutton, and Aaron Parry on Udemy, I worked on a scenario where I joined Adventure Works, a global cycling equipment and accessories manufacturer, as a Business Intelligence Analyst.
-
 # 🚴 Adventure Works Sales Analysis with Power BI
 
 Welcome to my Power BI project developed as part of the **Microsoft Power BI Desktop for Business Intelligence** course by **Maven Analytics**, instructed by *Chris Dutton* and *Aaron Parry* on Udemy.
