@@ -1,4 +1,3 @@
-<img width="1448" height="811" alt="image" src="https://github.com/user-attachments/assets/a916d8fb-0b9b-4088-a8a5-7ade81f0f2e7" /># Diving-into-Data-with-Adventure-Works
 As part of the Microsoft Power BI Desktop for Business Intelligence course by Maven Analytics, Chris Dutton, and Aaron Parry on Udemy, I worked on a scenario where I joined Adventure Works, a global cycling equipment and accessories manufacturer, as a Business Intelligence Analyst.
 
 # 🚴 Adventure Works Sales Analysis with Power BI
